@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CasinoRoyaleBrandonTussey</string>
+    <string name="title_activity_preferences">Preferences</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="help_summary">The Goal of Black Jack is to have your cards get as close
+        to 21 with out going over. The dealer commonlyrefered to as "The House" will attempt
+        to go to 21 as well. if your cards count over the dealers  without going over 21 then
+        you win, else The house wins.
+        The Setting Menu can be accessed throughout the three dot menu
+    in the top right, or when at the main menu, the circle button in the bottom left.</string>
+    <string name="bet_str">Place bet, minimum: 10</string>
+</resources>
